@@ -1,3 +1,39 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": 2,
+      "title": "Hello Again World",
+      "deadline": "2000-01-01",
+      "completed": false,
+      "archived": false
+    },
+    {
+      "title": "Hello 1",
+      "deadline": "1999-12-31",
+      "completed": true,
+      "archived": false,
+      "id": 3
+    },
+    {
+      "title": "Hello 2",
+      "deadline": "1998-01-12",
+      "completed": false,
+      "archived": false,
+      "id": 4
+    },
+    {
+      "title": "Hello 3",
+      "deadline": "2007-05-04",
+      "completed": false,
+      "archived": false,
+      "id": 5
+    }
+  ]
 }
